@@ -1,0 +1,3 @@
+@echo off
+echo Acil Yardım Afet Web uygulaması başlatılıyor...
+npm start 
